@@ -1,1 +1,2 @@
-# git_teamwork2
+최승현 README 작성
+
